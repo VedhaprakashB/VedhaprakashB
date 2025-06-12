@@ -9,7 +9,7 @@
 ### 💼 What I Do
 
 - 🚀 Currently exploring real-world applications of **Data Analytics**
-- 🤖 Worked as a **Data Analyst Intern** at **Innodatatics** on a **Vehicle Monitoring AI Solution**
+- 🤖 Worked as a **Data Analyst Intern** at **Innodatatics** on a **Vehicle Monitoring AI Solution** LINK : https://drive.google.com/file/d/1_qKGy1weshSF2AoUbdkNNEXUA2uFwD_q/view?usp=sharing
 - 📊 Skilled in **Python**, **Power BI**, and **Excel**
 - 🔍 Interested in NLP, Machine Learning, and AI-driven analytics tools
 
